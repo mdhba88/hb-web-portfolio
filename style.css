@@ -17,7 +17,6 @@
     background-size: 1000px;
     background-repeat: no-repeat;
     background-position: bottom;
-    border-bottom: 4px solid #00c7ef;
 }
 .navContainer{
     display: flex;
@@ -46,7 +45,7 @@
 }
 .textLogo h3 span{
     color: #00c7ef;
-        font-family: "Open Sans", sans-serif;
+    font-family: "Open Sans", sans-serif;
 }
 .navContainer ul{
     display: flex;
@@ -161,9 +160,8 @@
 /*Main First "About Me" Section*/
 #mainSectionOne{
     width: 1000px;
-    margin: 90px auto 100px;
+    margin: 90px auto 90px;
     background-color: #2A3040;
-    border-bottom: 4px solid #00c7ef;
 }
 .aboutMe{
     display: flex;
@@ -219,7 +217,7 @@
     align-items: center;
 }
 .whatIdoFirstSection h1{
-    margin: 90px 0 20px 0;
+    margin: 0 0px 20px 0;
     color: #2A3040;
     font-family: "Open Sans", sans-serif;
     font-size: 30px;
